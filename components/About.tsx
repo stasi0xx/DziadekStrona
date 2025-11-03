@@ -17,7 +17,7 @@ const About: React.FC = () => {
           <div className="lg:col-span-2">
             <div className="rounded-lg overflow-hidden shadow-2xl transform hover:scale-105 transition-transform duration-500">
               <img 
-                src="/ryszard-frelich.png" 
+                src="/Gemini_Generated_Image_1mle4l1mle4l1mle.png"
                 alt="Ryszard Frelich" 
                 className="w-full h-full object-cover" 
               />
